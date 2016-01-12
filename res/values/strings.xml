@@ -113,5 +113,6 @@
     <string name="desc_del">delete</string>
     <!-- Content description for '=' button. [CHAR_LIMIT=NONE] -->
     <string name="desc_eq">equals</string>
+	<string name="floating_name">popup caculator</string>
 
 </resources>
